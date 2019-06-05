@@ -1,0 +1,4 @@
+./Config/samples.txt
+./Config/mPiano_C4.txt
+./Config/mPiano_C5.txt
+./Config/animals.txt

@@ -1,0 +1,12 @@
+/opt/sonic-pi/etc/samples/ambi_piano.flac
+/opt/sonic-pi/etc/samples/elec_hollow_kick.flac
+/opt/sonic-pi/etc/samples/ambi_soft_buzz.flac
+/opt/sonic-pi/etc/samples/bass_dnb_f.flac
+/opt/sonic-pi/etc/samples/bass_hit_c.flac
+/opt/sonic-pi/etc/samples/elec_plip.flac
+/opt/sonic-pi/etc/samples/bass_trance_c.flac
+/opt/sonic-pi/etc/samples/vinyl_backspin.flac
+/opt/sonic-pi/etc/samples/elec_soft_kick.flac
+/opt/sonic-pi/etc/samples/elec_tick.flac
+/opt/sonic-pi/etc/samples/vinyl_rewind.flac
+/opt/sonic-pi/etc/samples/elec_twang.flac

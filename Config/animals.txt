@@ -1,0 +1,12 @@
+/usr/share/scratch/Media/Sounds/Animal/Bird.wav
+/usr/share/scratch/Media/Sounds/Animal/Cricket.wav
+/usr/share/scratch/Media/Sounds/Animal/Dog1.wav
+/usr/share/scratch/Media/Sounds/Animal/Dog2.wav
+/usr/share/scratch/Media/Sounds/Animal/Duck.wav
+/usr/share/scratch/Media/Sounds/Animal/Goose.wav
+/usr/share/scratch/Media/Sounds/Animal/Horse.wav
+/usr/share/scratch/Media/Sounds/Animal/Kitten.wav
+/usr/share/scratch/Media/Sounds/Animal/Meow.wav
+/usr/share/scratch/Media/Sounds/Animal/Owl.wav
+/usr/share/scratch/Media/Sounds/Animal/Rooster.wav
+/usr/share/scratch/Media/Sounds/Animal/WolfHowl.wav

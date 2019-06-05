@@ -1,0 +1,12 @@
+/home/jprymek/Music/mPiano/C4.wav
+/home/jprymek/Music/mPiano/Cs4.wav
+/home/jprymek/Music/mPiano/D4.wav
+/home/jprymek/Music/mPiano/Ds4.wav
+/home/jprymek/Music/mPiano/E4.wav
+/home/jprymek/Music/mPiano/F4.wav
+/home/jprymek/Music/mPiano/Fs4.wav
+/home/jprymek/Music/mPiano/G4.wav
+/home/jprymek/Music/mPiano/Gs4.wav
+/home/jprymek/Music/mPiano/A4.wav
+/home/jprymek/Music/mPiano/As4.wav
+/home/jprymek/Music/mPiano/B4.wav

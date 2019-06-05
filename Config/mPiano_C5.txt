@@ -1,0 +1,12 @@
+/home/jprymek/Music/mPiano/C5.wav
+/home/jprymek/Music/mPiano/Cs5.wav
+/home/jprymek/Music/mPiano/D5.wav
+/home/jprymek/Music/mPiano/Ds5.wav
+/home/jprymek/Music/mPiano/E5.wav
+/home/jprymek/Music/mPiano/F5.wav
+/home/jprymek/Music/mPiano/Fs5.wav
+/home/jprymek/Music/mPiano/G5.wav
+/home/jprymek/Music/mPiano/Gs5.wav
+/home/jprymek/Music/mPiano/A5.wav
+/home/jprymek/Music/mPiano/As5.wav
+/home/jprymek/Music/mPiano/B5.wav
